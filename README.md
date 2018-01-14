@@ -2,16 +2,16 @@
 ### Networking
 - Networking is the best way to get an interview! It helps you stand out among the masses. Attend [local tech meetups](https://www.meetup.com/cities/ca/bc/vancouver/tech/), go to career fairs and actually talk to recruiters there + follow up with them, and reach out to friends at companies you would like to work for to get a referral.
 ### LinkedIn
-- If you don't know anyone at the company you want to work for and if they are not attending any events near you, it is possible to have some success messaging recruiters on LinkedIn. USUALLY they will straight up ignore your messages, but SOMETIMES you can get an interview out of it! LinkedIn has this thing now where you might need to buy premium in order to message certain people. When I was job hunting I bought premium for this feature, but overall I do not think it was worth it. 
+- If you don't know anyone at the company you want to work for and if they are not attending any events near you it is possible to have some success messaging recruiters on LinkedIn. USUALLY they will straight up ignore your messages, but SOMETIMES you can get an interview out of it! LinkedIn has this thing now where you might need to buy premium in order to message certain people. When I was job hunting I bought premium for this feature, but overall I do not think it was worth it. 
 ### Applying Online
 - Applying online seems to have the lowest success rate, though it is still certainly possible to land an interview this way. NETWORK INSTEAD IF POSSIBLE!!!
 
 ## Study Guide
 ### Data Structures
 - I have some detailed information about various data structures in [this document](https://github.com/lisageeee/InterviewPrep/blob/master/README.md). KNOW YOUR DATA STRUCTURES!!!!!!!!!! Know the time & space complexity and tradeoffs. Also know how to actually implement them from scratch. 
-### LeetCode
+### [LeetCode](https://leetcode.com/)
 - LeetCode (or a similar site) is the most important resource in preparing for interviews. 
-- If you are looking for applying for a specific company (Facebook, Google, Microsoft, etc.) it may be worth it to purchase LeetCode premium. It allows you to focus your studying on what is important for these places.
+- If you are preparing for a specific company (Facebook, Google, Microsoft, etc.) it may be worth it to purchase LeetCode premium. It allows you to focus your studying on what is important for these places.
 - Aim to do around 2-5 questions per day. 
 - Start with the easy questions and work on only those for a few weeks and then go on to tackle some medium level questions. Unless you are applying for the Big 4 you probablyyy won't be asked hard level questions. Probably. 
 - Work through the questions as if you were actually doing an interview. Talk out loud and explain to yourself what you are doing and why. Try to resist looking at other people's solutions and work through the problem on your own. If after around 20minutes you are still stuck you may take a look at a solution. Actually UNDERSTAND the solution. Don't just look at it and go "oh", comprehend what they are doing and why it works. 
