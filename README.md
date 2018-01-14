@@ -1,4 +1,4 @@
-# INTERVIEW TIPZ N' TRICKZ
+# INTERVIEW TIPZ AND TRICKZ
 * [Getting An Interview](#getting-an-interview)
 * [Study Guide](#study-guide)
 * [During the Interview](#during-the-interview)
