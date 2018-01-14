@@ -1,4 +1,11 @@
-## Getting An Interview
+# INTERVIEW TIPZ N' TRICKZ
+* [Getting An Interview](#getting-an-interview)
+* [Study Guide](#study-guide)
+* [During the Interview](#during-the-interview)
+* [After the Interview](#after-the-interview)
+* [Other Resources](#other-resources)
+
+# Getting An Interview
 ### Networking
 - Networking is the best way to get an interview! It helps you stand out among the masses. Attend [local tech meetups](https://www.meetup.com/cities/ca/bc/vancouver/tech/), go to career fairs and actually talk to recruiters there + follow up with them, and reach out to friends at companies you would like to work for to get a referral.
 ### LinkedIn
@@ -6,7 +13,7 @@
 ### Applying Online
 - Applying online seems to have the lowest success rate, though it is still certainly possible to land an interview this way. NETWORK INSTEAD IF POSSIBLE!!!
 
-## Study Guide
+# Study Guide
 ### Data Structures
 - I have some detailed information about various data structures in [this document](https://github.com/lisageeee/InterviewPrep/blob/master/README.md). KNOW YOUR DATA STRUCTURES!!!!!!!!!! Know the time & space complexity and tradeoffs. Also know how to actually implement them from scratch. 
 ### [LeetCode](https://leetcode.com/)
@@ -39,7 +46,7 @@
 - Sleep & eat. Sometimes it is hard to sleep before an important interview. If you can't sleep well before an interview it might be ok and you can use caffeine and adreneline to survive..but it is definitely not ideal. 
 - Wear an outfit that makes you feel confident. Often companies will say that it doesn't matter what you wear to the interview. That doesn't mean you should look sloppy though. Look nice! 
 
-## During the Interview
+# During the Interview
 1) Understand the question! If there is anything unclear ask the interviewer about it! Never assume anything. A lot of times you will be asked intentionally vague questions and it is your job to seek clarity. For example you may be asked to sort a list. Some questions to ask might be: 
 - What type of list? Array list? Linked list?
 - Should I sort it in place?
@@ -55,12 +62,12 @@
 
 5) You will usually have around 30minutes to code a solution to one or more problems. When you run out of time it is good to explain what you would do with the code if you had more time. For example, you can explain how you might optimize it further or how you might make it more readable. 
 
-## After the Interview
+# After the Interview
 - Don't assume the worst. Often times you performed a lot better than you thought you did!
 - Thank your recruiter and interviewer(s) if you know their contact information.
 - Follow up for results if you don't hear anything after a week or so.
 
-## Other Resources
+# Other Resources
 - https://www.reddit.com/r/cscareerquestions ~ CS Career Advice. People can be a bit pretentious on here but sometimes there is actual good advice.
 - https://www.hackerrank.com/ ~ Similar to leetcode
 - https://interviewing.io/ ~ Anonymous mock interviews
